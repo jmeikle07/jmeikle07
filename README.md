@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi I am Jahsean Meikle
 
-<!--
-**jmeikle07/jmeikle07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I find myself in a current place in my life where I would describe it as staring at the mountaintop. Figuratively, I feel everyone has their own mountain which are seemed to be grand accomplishments or goals.
 
-Here are some ideas to get you started:
+I see it all to be based on perception and I will climb all my planned mountains clearing the entire range.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As things stand now, I am a 18 year old(10/06/2007), dual enrolled highschool student who has 36 college credits and while graduate highschool this May('26). 
+
+By the end of this decade and at the age of 23, I will give my all to have:
+
+BBA in Computer Information Systems concentrating in Cybersecurity @ Georgia State University
+
+MS in Information Systems @ Georgia State University 
+
+9 Certifications
