@@ -1,10 +1,11 @@
-Hi I am Jahsean Meikle
+Hi, I am Jahsean Meikle.
 
-I find myself in a current place in my life where I would describe it as staring at the mountaintop. Figuratively, I feel everyone has their own mountain which are seemed to be grand accomplishments or goals.
+I find myself at a point in life where I am staring at the mountain top.
+To me, each mountain represents a goal, a challenge, or a place I am meant to reach.
 
-I see it all to be based on perception and I will climb all my planned mountains clearing the entire range.
+I believe perception shapes everything, and I plan to climb every mountain in front of me.
 
-As things stand now, I am a 18 year old(10/06/2007), dual enrolled highschool student who has 36 college credits and while graduate highschool this May('26). 
+I am 18 years old (10/2007, a dual-enrolled high school student with 36 college credits, and I will graduate this May 2026.
 
 By the end of this decade and at the age of 23, I will give my all to have:
 
