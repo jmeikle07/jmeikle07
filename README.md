@@ -1,16 +1,18 @@
-Hi, I am Jahsean Meikle.
+Hi, I'm Jahsean Meikle.
 
-I find myself at a point in life where I am staring at the mountain top.
-To me, each mountain represents a goal, a challenge, or a place I am meant to reach.
+Right now I'm staring up at the mountaintop. To me, each mountain is a goal, a challenge, or a place I'm meant to be. I believe perception shapes everything, and I plan to climb every mountain in front of me.
 
-I believe perception shapes everything, and I plan to climb every mountain in front of me.
+### Where I am now
 
-I am 18 years old (10/2007), a dual-enrolled high school student with 36 college credits, and I will graduate this May 2026.
+- Sophomore at Georgia State University, studying Computer Information Systems with a concentration in cybersecurity
+- SQL & Data Intern on GSU's EAB Navigate360 team
+- CompTIA Security+ and ISC2 Certified in Cybersecurity, working toward the Cisco CCNA
 
-By the end of this decade and at the age of 23, I will give my all to have:
+### What I've built
 
-BBA in Computer Information Systems concentrating in Cybersecurity @ Georgia State University
+- [SentinelForge](https://github.com/jmeikle07/SentinelForge): a Python threat-detection engine that runs 193 Sigma rules against Elasticsearch telemetry, mapped to MITRE ATT&CK, NIST SP 800-53, and CIS Controls v8
 
-MS in Information Systems @ Georgia State University 
+### By the end of this decade, I'm giving everything to earn
 
-9 Certifications
+- B.B.A. in Computer Information Systems (Cybersecurity) from Georgia State University
+- M.S. in Analytics from Georgia Tech
